@@ -4,6 +4,7 @@ https://github.com/databrickslabs/dolly/tree/master/data
 ↑
 こちらで公開されているデータセットを、英日翻訳エンジンfuguMTを使ってローカルで翻訳したものです。
 翻訳の精度は、fuguMTのデフォルト設定で翻訳したものです。
+
 fuguMT -> https://huggingface.co/staka/fugumt-en-ja
 fuguMT作者のstakaさんのブログ -> https://staka.jp/wordpress/
 
